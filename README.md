@@ -1,2 +1,2 @@
 # Django-Crud
-ZuriTraining- https://sharonij.github.io/Django-Crud/manage.py
+ZuriTraining- https://sharonij.github.io/Django-Crud/
