@@ -1,2 +1,2 @@
 # Django-Crud
-ZuriTraining
+ZuriTraining- https://sharonij.github.io/Django-Crud/
